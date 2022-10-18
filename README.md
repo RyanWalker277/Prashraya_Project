@@ -44,7 +44,7 @@ bash
 gradlew installDebug
 
 
-!!
+
 
 
 ## Directions to execute
